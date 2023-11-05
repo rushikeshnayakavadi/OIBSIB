@@ -4,13 +4,13 @@ Welcome to my repository for the OIBSIP October 2023 Internship! This compilatio
 
 Table of Contents:
 
-About the Internship
-Tools and Technologies Utilized
-Projects Completed
-Getting Started
-Contribution Guidelines
-Contact Information
-About the Internship
+1.About the Internship
+2.Tools and Technologies Utilized
+3.Projects Completed
+4.Getting Started
+5.Contribution Guidelines
+6.Contact Information
+7.About the Internship
 
 The Oasis Infobyte Data Science virtual internship program, offered by Oasis Infobyte, provides hands-on learning experiences in the fields of data science, machine learning, and artificial intelligence.
 
@@ -18,12 +18,12 @@ Tools and Technologies Utilized
 
 Throughout this internship, I employed the following tools and technologies:
 
-Python
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
-Projects Completed
+1.Python
+2.Pandas
+3.Scikit-learn
+4.Matplotlib
+5.Seaborn
+6.Projects Completed
 
 This repository encompasses the following projects I successfully completed during the internship:
 
